@@ -34,7 +34,6 @@ Each assignment is organized into its own directory with relevant source files.
    ```terminal commands
    javac Main.java
    java Main
-
 ---
 
 ## Purpose
