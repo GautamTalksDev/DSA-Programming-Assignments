@@ -1,0 +1,39 @@
+### --- Java build artifacts ---
+*.class
+*.jar
+*.war
+*.ear
+
+# Your repo has compiled classes in this folder
+All .class Files/
+
+### --- Common build/output folders ---
+bin/
+out/
+target/
+build/
+
+### --- IDE / Editor files ---
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+### --- OS junk ---
+.DS_Store
+Thumbs.db
+
+### --- Logs / temp ---
+*.log
+hs_err_pid*
+*.tmp
+
+### --- Secrets (if you ever add them) ---
+.env
